@@ -11,10 +11,10 @@ $(document).ready(function() {
 
     const servers = [
         {url: "play.mklmc.lol", port: "7114", name: "Proxy Server", location: "Japan" },
-        {url: "lg.mklmc.lol", port: "25031", name: "Proxy Server", location: "Thailand"},
+        {url: "join.mklmc.lol", port: "25031", name: "Proxy Server", location: "Thailand"},
         {url: "103.69.75.36", port: "25444", name: "Lobby Server", location: "Indonesia"},
         {url: "212.232.28.94", port: "25419", name: "Lobby Server", location: "Austria"},
-        {url: "test.mklmc.lol", port: "28848", name: "test Server", location: "Unknown"},
+        {url: "test.mklmc.lol", port: "25314", name: "test Server", location: "Thailand"},
         {url: "185.207.164.129", port: "22193", name: "Survival Server", location: "Singapore"},
         {url: "212.232.28.94", port: "26048", name: "Flat Server", location: "Austria"}
         
