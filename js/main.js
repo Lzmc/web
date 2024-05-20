@@ -14,7 +14,7 @@ $(document).ready(function() {
         {url: "join.mklmc.lol", port: "25031", name: "Proxy Server", location: "Thailand"},
         {url: "103.69.75.36", port: "25444", name: "Lobby Server", location: "Indonesia"},
         {url: "212.232.28.94", port: "25419", name: "Lobby Server", location: "Austria"},
-        {url: "test.mklmc.lol", port: "25314", name: "test Server", location: "Thailand"},
+        {url: "103.69.75.36", port: "25314", name: "One Block Server", location: "Thailand"},
         {url: "185.207.164.129", port: "22193", name: "Survival Server", location: "Singapore"},
         {url: "212.232.28.94", port: "26048", name: "Flat Server", location: "Austria"}
         
